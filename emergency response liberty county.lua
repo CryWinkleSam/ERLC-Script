@@ -141,7 +141,7 @@ PC:
 - Potassium (https://potassium.pro | discord.gg/potassium)
 - Madium (discord.gg/olemad)
 - Ronix (discord.gg/ronixstudios)
-- volt (discord.gg/voltbz) [MIGHT CAUSE ALOT OF ANTI BAN ERRORS [Causes the wave injection (silent) anti ban to be fired ALOT would not reccemond dis]]
+- volt (discord.gg/voltbz) [MIGHT CAUSE ALOT OF ANTI BAN ERRORS [Causes the wave injection (silent) anti ban to be fired ALOT would not reccemond dis]
 Mobile:
 - Delta (discord.gg/deltax)
 
